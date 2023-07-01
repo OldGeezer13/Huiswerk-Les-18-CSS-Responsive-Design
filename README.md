@@ -5,8 +5,8 @@ Deze opdracht van mijn NHA Webdesign cursus was een lastige 😅..
 <br>
 De bedoeling was om een website te maken die op desktop en op mobiel goed te zien is.<br>
 Deze website moest zich aanpassen aan de grote van het gebruikte medium.<br>
-Dit kon zijn een desktop, een tablet tot klein formaat smartphone.
-Heb het ontwerp gemaakt van mijn woonplaats Harlingen.
+Dit kon zijn een desktop, een tablet tot klein formaat smartphone.<br>
+Heb het ontwerp gemaakt van mijn woonplaats Harlingen.<br>
 Weetjes, afbeeldingen en nog wat links in gestopt.
 De meeste informatie komt van https://www.harlingenwelkomaanzee.nl/nl<br>
 <br>
